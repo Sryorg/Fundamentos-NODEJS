@@ -1,2 +1,2 @@
 #Fundamentos nodeJS
-- conceitos nodeJS
+- conceitos básicos nodeJS
